@@ -26,22 +26,21 @@
 
 .bootstrap-duallistbox-container .move,
 .bootstrap-duallistbox-container .remove {
-  width: 50%;
-  box-sizing: content-box;
+  width: 60%;
 }
 
 .bootstrap-duallistbox-container .btn-group .btn {
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
 }
-.bootstrap-duallistbox-container:not(.moveonselect) select {
+.bootstrap-duallistbox-container select {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
+
 .bootstrap-duallistbox-container .moveall,
 .bootstrap-duallistbox-container .removeall {
-  width: 50%;
-  box-sizing: content-box;
+  width: 40%;
 }
 
 .bootstrap-duallistbox-container.bs2compatible .btn-group > .btn + .btn {
